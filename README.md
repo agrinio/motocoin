@@ -1,0 +1,4 @@
+motocoin
+========
+
+altcoin
